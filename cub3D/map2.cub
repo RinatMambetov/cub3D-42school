@@ -1,0 +1,12 @@
+NO ./texture/space_1.xpm
+SO ./texture/space_5.xpm
+WE ./texture/space_4.xpm
+EA ./texture/space_3.xpm
+
+F 0,0,255
+C 0,0,0
+
+111111
+1S0001
+111011
+111111
